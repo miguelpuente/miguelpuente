@@ -31,10 +31,13 @@
 ```python
 class MiguelPuente:
     '''
-    Soy un Científico de Datos altamente motivado y curioso, 
-    con experiencia en el uso de Python, SQL, técnicas de Ciencia de Datos 
-    y desarrollo de software. Mi enfoque analítico y orientado a los detalles 
-    me permite abordar problemas complejos y encontrar soluciones efectivas.
+    Ingeniero de Datos altamente capacitado y con experiencia en desarrollo web,
+    gestión financiera y liderazgo de proyectos. Especializado en el diseño, gestión y 
+    mantenimiento de infraestructuras de datos, y en la creación de soluciones para el 
+    procesamiento y análisis de grandes volúmenes de datos alineados con los requisitos 
+    de negocio. Hábil programando en Python y trabajando con bases de datos SQL.
+    Busco aplicar mis habilidades técnicas y blandas en un entorno desafiante para 
+    mejorar el rendimiento y la toma de decisiones basadas en datos.
     '''
 
 
@@ -67,7 +70,7 @@ class MiguelPuente:
         experiencias = {
             'actual': ['Instructor de Python, SQL y Django en Informatorio Chaco', 
                         'Desarrollador de Software en concesionario oficial TOYOTA']
-            'anterior': ['Tesorero', 'Encargado de Créditos y Cobranzas']
+            'anterior': ['Project Manager','Tesorero', 'Encargado de Créditos y Cobranzas']
         }
         return experiencias
 ```
