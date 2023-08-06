@@ -48,7 +48,7 @@ class MiguelPuente:
         habilidades = {
             'lenguajes': ['Python', 'SQL', 'JavaScript']
             'metodologías': ['Limpieza de datos', 'Minería de datos', 
-            'Automatización', 'Desarrollo web']
+                             'Automatización', 'Desarrollo web']
         }
         return habilidades
 
